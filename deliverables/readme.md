@@ -1,22 +1,23 @@
-## Data Description
+## Documents Description
 
 ```
 - readme.md
 ---- DESCRIPTION OF STRUCTURE
 ----------------
 ----------------
-- dataset 1
+- document 1
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
 ----------------
-- dataset 2
+- document 2
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
 ----------------
-- dataset 3
+- document 3
 ---- DESCRIPTION
 ---- ORDER
 ---------------- 
 ```
+
