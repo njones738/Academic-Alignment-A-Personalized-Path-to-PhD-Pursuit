@@ -1,6 +1,6 @@
-# PROJECT TITLE
+# Academic Alignment: A Personalized Path to PhD Pursuit
 
-TBD
+under construction
 
 ### __Project Purpose__    
 * TBD  
