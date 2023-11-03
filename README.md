@@ -1,4 +1,4 @@
-# Academic Alignment: A Personalized Path to PhD Pursuit
+# Charting the Course: A Data-Driven Approach to Ph.D. Program Fit
 
 under construction
 
