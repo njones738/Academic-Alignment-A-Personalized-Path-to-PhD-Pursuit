@@ -26,43 +26,10 @@ This project presents a personalized method to analyze fit between PhD applicant
 * <b>Number of Faculty Members of Interest (Figure 6):</b> An institution’s faculty of interest include those faculty members whose research falls within one of the areas listed in the inclusion criteria. Figure 6 presents the number of these faculty at each institution. The data included information on 387 faculty members of interest across the 60 institutions. Stanford hosts the greatest number of faculty of interest, at 52 individuals within four possible degree programs.
 * <b>Percentage of Publications by Topic (Figure 7):</b> Figure 7 presents the proportion of publications across six areas of interest as determined by a topic model for the 8 institutions with the earliest application deadlines. Caltech has the greatest proportion of publications related to Harmonics & Hierarchies, which appears most frequently across institutions’ publications. Caltech’s proportion of publications related to Probability, Graphs, & Networks ranks second only to UC San Diego. For Neuroscience & Biostatistics, as well as Social Statistics, KSU exhibits the highest proportion of related publications. Finally, Stanford ranks first for the proportion of publications related to Machine Learning, Language Modeling, & AI. The proportion of publications related to Marketing, Economics, & Business remained miniscule across all 8 schools. 
 
-## Folder structure
-
-```
-- readme.md
-- scripts
----- readme.md
----- 
-- data
----- readme.md
----- 
-- documents
----- readme.md
----- 
-```
-
-## Deliverables
-
-* TBD     
-* TBD     
-* TBD     
-
 ## Data sources
 
 * CollegeScorecard
 * Google Scholar
-
-## Github pages
-
-* TBD     
-* TBD     
-* TBD     
-
-## Questions
-
-* TBD     
-* TBD     
-* TBD    
 
 ## Citations
 
